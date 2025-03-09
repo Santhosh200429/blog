@@ -1,10 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/blogy)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/blogy?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/blogy?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/NNQuhOeM0mI?style=social)](https://youtu.be/NNQuhOeM0mI)
 
   <br />
   <br />
@@ -13,7 +8,7 @@
 
   Blogy is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/blogy/"><strong>➥ Live Demo</strong></a>
+  <a href="https://santhosh200429.github.io/blog/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +31,18 @@ To run **Blogy** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/blogy.git
+sudo git clone https://github.com/santhosh200429/blog.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/blogy.git
+git clone https://github.com/santhosh200429/blog.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://x.com/Sxndyhub?t=2ix4pniFjjqcwnzcReGV4Q&s=09).
 
 ### License
 
